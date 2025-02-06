@@ -1,0 +1,23 @@
+#####################################################
+#                                                   #
+#                   MAYA: Melody                    #
+#                                                   #
+#          "Music to Match Every Moment"            #
+#                                                   #
+#####################################################
+
+# New options will not be automatically added to this file.
+# If and option is missing, the default value will be applied.
+
+# Thank you for downloading Rise Wars! Please, check out my other projects on Modrinth.
+# https://modrinth.com/user/SeedimV
+
+
+
+# NOTE: For the time being, there are no other player types implemented than radio song player.
+
+radio-song-player:
+  # Enable or disable radio song player:
+  # - true: Radio song player will be enabled. All players will hear the music.
+  # - false: Radio song player will be disabled.
+  enable-radio-song-player: true
